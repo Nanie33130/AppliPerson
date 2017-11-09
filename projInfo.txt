@@ -1,0 +1,9 @@
+jeudi 21 septembre 2017, 11:35:28 (UTC+0200)
+  85 appli.cpp
+   7 main.cpp
+  47 person.cpp
+  18 appli.h
+  19 person.h
+ 176 total
+nombre de méthodes : 15
+nombre de classes : 2
